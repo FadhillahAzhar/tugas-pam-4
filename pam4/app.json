@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pam4",
+    "name": "RD-Fadhillah Azhar Alsani-119150217-Tugas Individu 4",
     "slug": "pam4",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "pam.apk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
