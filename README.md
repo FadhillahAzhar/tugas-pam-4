@@ -1,11 +1,14 @@
 # TUGAS PAM 4
+Fadhillah Azhar Alsani <br>
+119140217
+
 
 Nama Aplikasi: QR Scanner
 
 Deskripsi Aplikasi:
 Aplikasi ini digunakan untuk melakukan scan pada QR Code. Link yang terintegrasi di dalam code yang telah di scan kemudian akan secara otomatis dibuka pada browser smartphone.
 
-Package Expo yang digunakan:
+Package Expo yang digunakan: <br>
 expo-barcode-scanner
 
 Cara Install Aplikasi:
